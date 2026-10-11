@@ -1,0 +1,6 @@
+Restaurant_ID,Area,Cuisine,Food_Category,Menu_Item,Price,Rating,Reviews,Offers,Delivery,Website,Online_Order,Social_Presence
+R001,Area A,Indian,Main Course,Biryani,250,4.4,1250,Yes,Yes,Yes,Yes,High
+R002,Area B,Chinese,Main Course,Noodles,180,4.1,730,No,Yes,No,No,Medium
+R003,Area A,Italian,Pizza,Pizza,320,4.5,980,Yes,Yes,Yes,Yes,High
+R004,Area C,Indian,Snacks,Samosa,80,3.9,450,No,No,No,No,Low
+R005,Area B,Mexican,Main Course,Tacos,220,4.2,620,Yes,Yes,Yes,Yes,Medium
